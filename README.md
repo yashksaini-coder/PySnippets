@@ -225,6 +225,13 @@ For questions, suggestions, or feedback, feel free to contact the project mainta
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/yashksaini-coder">
+                    <img src="https://avatars.githubusercontent.com/u/115717039?v=4" width="100;" alt="yashksaini-coder"/>
+                    <br />
+                    <sub><b>Yash Kumar Saini</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/pavitraag">
                     <img src="https://avatars.githubusercontent.com/u/100479594?v=4" width="100;" alt="pavitraag"/>
                     <br />
@@ -243,13 +250,6 @@ For questions, suggestions, or feedback, feel free to contact the project mainta
                     <img src="https://avatars.githubusercontent.com/u/131283498?v=4" width="100;" alt="rishikaa1"/>
                     <br />
                     <sub><b>Rishika Hazarika</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/yashksaini-coder">
-                    <img src="https://avatars.githubusercontent.com/u/115717039?v=4" width="100;" alt="yashksaini-coder"/>
-                    <br />
-                    <sub><b>Yash Kumar Saini</b></sub>
                 </a>
             </td>
 		</tr>
